@@ -1,0 +1,3 @@
+This project, "API Weather Display", was created using Python code. The program uses a weather API database to display a summary of the weather forecast. The text describes the forecast, and the circles on the right represent the temperature. The size and color of the circles correspond to the temperature. Lighter and cooler colors mean the temperatures are colder. The darker and warmer colors mean the temperatures are warmer. For example, if you see blue, that represents cold temperatures; however, a darker blue will be slighly warmer than a lighter blue. Additionally, at the bottom of the screen, either a sun or moon will be printed depending on the time of day.
+
+This program was created for my Computational Foundations course in 2020.
